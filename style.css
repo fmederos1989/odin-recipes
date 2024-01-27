@@ -17,6 +17,7 @@ h1{
     width: 13em;
     margin: 0.5em auto ;
     padding: 0.5em;
+    flex: auto;
 }
 
 div{
@@ -44,6 +45,8 @@ a{
 
 
 li:hover{
-    background-color: black;
-    color: white;
+    color: teal;
+    background-color: white;
+    a{ color: teal;}
 }
+    
