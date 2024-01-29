@@ -1,2 +1,2 @@
 En este proyecto realizaremos una pagina simple de recetas básicas.
-Las habilidades utilizadas son GIT y HTML
+Las habilidades utilizadas son GIT, HTML y CSS
